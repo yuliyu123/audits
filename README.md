@@ -16,7 +16,7 @@ If you are a team and is searching a security researcher as team audit also welc
 <img src="images/cantina-leaderboard-07-2024.png" width="900">
 
 
-### Pricing
+### Price
 
 `nSLOC * 10 USDC`, measured by https://github.com/Consensys/solidity-metrics
 
