@@ -4,7 +4,7 @@
 
 I'm an independent security researcher, currently active in smart contract contests and bug bounty platform.
 
-Now I'm mostly focus on solidity smart contract security and open for private audits or security consulting about Solidity/Rust/Go smart contract or cosmos chains. If anything I can help you please contact with me by discord: `pks7323`, twitter: [`@pks_eth`](https://x.com/pks_eth) or gmail: `looperx95@gmail.com`.
+Now I'm mostly focus on solidity smart contract security and open for private audits or security consulting about Solidity/Rust/Go smart contract or cosmos chains. If anything I can help you please contact with me by discord: `pks7323` or twitter: [`@pks_eth`](https://x.com/pks_eth).
 
 If you are a team and is searching a security researcher as team audit also welcome.
 
