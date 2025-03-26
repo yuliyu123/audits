@@ -8,6 +8,10 @@ Now I'm mostly focus on solidity smart contract security and open for private au
 
 If you are a team and is searching a security researcher as team audit also welcome.
 
+Immunefi profile: https://immunefi.com/profile/hoverfly9132/
+
+Cantina profile: https://cantina.xyz/u/pks271
+
 ### Audit Contest
 
 | Platform| Contest | Date | Category | Findings | Ranking | Report |
