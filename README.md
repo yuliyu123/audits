@@ -8,15 +8,6 @@ Now I'm mostly focus on solidity smart contract security and open for private au
 
 If you are a team and is searching a security researcher as team audit also welcome.
 
-## Highlights
-
-- [Cantina Profile](https://cantina.xyz/u/pks271)
-- Ranked #16 on Cantina for July 2024
-
-<img src="images/cantina-leaderboard-07-2024.png" width="900">
-
-
-
 ### Audit Contest
 
 | Platform| Contest | Date | Category | Findings | Ranking | Report |
@@ -30,7 +21,3 @@ If you are a team and is searching a security researcher as team audit also welc
 | Cantina | [Opal](https://cantina.xyz/competitions/28425672-ce54-4c66-b188-c4d5650d6790/leaderboard) | Feb 2024 | yield vault | 5H 1M | 4 | [Link](https://cantina.xyz/competitions/28425672-ce54-4c66-b188-c4d5650d6790) |
 | Cantina | [Superfarm](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f) | Nov 2024 | bridge & yield vault | 1M | 19 | [Link](https://github.com/superform-xyz/superform-core/blob/main/security-review/2023-12-cantina-competition.md) |
 | Sherlock | [Bond option](https://audits.sherlock.xyz/contests/99) | July 2023	 | Option Trading	 | 2M | 7 | [Link](https://github.com/sherlock-audit/2023-06-bond-judging) |
-
-### Disclaimer
-
-A smart contract security review can never verify the complete absence of vulnerabilities. This is a time, resource and expertise bound effort where I try to find as many vulnerabilities as possible. I can not guarantee 100% security after the review or if even the review will find any problems with your smart contracts.
