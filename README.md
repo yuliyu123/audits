@@ -1,7 +1,7 @@
 
 ## About
 
-I'm an independent security researcher, currently active in web3 security contests and bug bounty platform. Have 4 years of experience in smart contract security and 2 years of experience in blockchain/DLT security, and got multiple top3/5 rankings across solidity/cosmos/rust/golang contests.
+I'm an independent security researcher, currently active in web3 security contests and bug bounty platform. Having 2 years of experience in smart contract and blockchain/DLT security, and got multiple top3/5 rankings across solidity/cosmos/rust/golang contests.
 
 Now I'm mostly focus on smart contract security&blockchain/DLT security and open for private audits or security consulting about Solidity/Rust/Go smart contract and cosmos chains. If anything I can help please contact me by discord: `pks7323` or twitter: [`@pks_eth`](https://x.com/pks_eth).
 
